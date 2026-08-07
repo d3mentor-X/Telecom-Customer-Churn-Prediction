@@ -23,13 +23,13 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 ### Machine Learning Pipeline
 
-![Logistic Pipeline](images/Logistic%20Pipeline.png)
+![Machine Learning Pipeline](images/Logistic%20Pipeline.png)
 
 ---
 
 ### Model Comparison
 
-![Model Comparison Table](images/Model%20Comparison%20Table.png)
+![Model Comparison](images/Model%20Comparison%20Table.png)
 
 ---
 
