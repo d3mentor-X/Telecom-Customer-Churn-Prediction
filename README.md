@@ -6,6 +6,39 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 ---
 
+
+## 📊 Project Results
+
+### Customer Churn Distribution
+
+![Customer Churn Distribution](images/Customer%20Churn%20Distribution.png)
+
+---
+
+### Statistical Summary
+
+![Statistical Summary](images/Statistical%20Summary.png)
+
+---
+
+### Machine Learning Pipeline
+
+![Logistic Pipeline](images/Logistic%20Pipeline.png)
+
+---
+
+### Model Comparison
+
+![Model Comparison Table](images/Model%20Comparison%20Table.png)
+
+---
+
+### SHAP Feature Importance
+
+![SHAP Summary](images/SHAP%20Summary.png)
+
+---
+
 ## Dataset
 
 - IBM Telco Customer Churn Dataset
