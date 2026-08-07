@@ -11,31 +11,31 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 ### Customer Churn Distribution
 
-![Customer Churn Distribution](images/Customer%20Churn%20Distribution.png)
+![Customer Churn Distribution](Images/Customer%20Churn%20Distribution.png)
 
 ---
 
 ### Statistical Summary
 
-![Statistical Summary](images/Statistical%20Summary.png)
+![Statistical Summary](Images/Statistical%20Summary.png)
 
 ---
 
 ### Machine Learning Pipeline
 
-![Machine Learning Pipeline](images/Logistic%20Pipeline.png)
+![Machine Learning Pipeline](Images/Logistic%20Pipeline.png)
 
 ---
 
 ### Model Comparison
 
-![Model Comparison](images/Model%20Comparison%20Table.png)
+![Model Comparison](Images/Model%20Comparison%20Table.png)
 
 ---
 
 ### SHAP Feature Importance
 
-![SHAP Summary](images/SHAP%20Summary.png)
+![SHAP Summary](Images/SHAP%20Summary.png)
 
 ---
 
