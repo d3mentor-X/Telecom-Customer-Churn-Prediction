@@ -11,7 +11,7 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 ### Customer Churn Distribution
 
-![Customer Churn Distribution](Images/Customer%20Churn%20Distribution.png)
+![Customer Churn Distribution]<img src="Images/Customer%20Churn%20Distribution.png" width="900">
 
 ---
 
@@ -23,7 +23,7 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 ### Machine Learning Pipeline
 
-![Machine Learning Pipeline](Images/Logistic%20Pipeline.png)
+![Machine Learning Pipeline]<img src="Images/Logistic%20Pipeline.png" width="900">
 
 ---
 
